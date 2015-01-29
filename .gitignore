@@ -1,2 +1,5 @@
+Berksfile.lock
 .kitchen/
 .kitchen.local.yml
+
+*.gem
